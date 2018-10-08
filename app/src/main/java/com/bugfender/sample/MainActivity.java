@@ -10,7 +10,7 @@ public class MainActivity extends AppCompatActivity {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
     
-    Log.i("Test","Webhook");
+    Log.i("Test","Webhooktest");
 
     //Bugfender logs
     //Bugfender debug log
