@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     Bugfender.d("DEBUG", "This message is a debug");
 
     //Bugfender error log
-    Bugfender.e("ERROR", "This message is a error");
+    Bugfender.e("ERROR", "This message is an error");
 
     //Bugfender warning log
     Bugfender.w("WARNING", "This message is a warning");
